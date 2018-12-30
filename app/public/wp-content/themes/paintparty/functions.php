@@ -8,6 +8,7 @@ function ay_files() {
 
 }
 
+
 function register_my_menu() {
   register_nav_menus( array(
   	'primary' => 'Main Menu',
