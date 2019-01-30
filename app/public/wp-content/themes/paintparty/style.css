@@ -9,23 +9,21 @@
 
 
 body {
-  padding-top: : 3rem;
-  padding-left: 5rem;
-  padding-right: 5rem;
-  font-family: 'Montserrat','Helvetica Neue',Arial,sans-serif;
-  color: #001A33;
-  background-color: #7C72A0;
-  text-align: center;
+  font-family: 'Ubuntu','Montserrat','Helvetica Neue',Arial,sans-serif;
+  color: #000000;
+  background-color: #FFFFFF;
 }
 
-form{
-  background-color: 854798;
-  padding: 3rem;
+body p{
+  color: #151515;
 }
 
-#wrap{
-  background-color: #854798;
-  color: #41033D;
+.btn{
+  background-color: #39C72C;
+}
+
+.face{
+  background-color: #A5B3A4;
 }
 
 .top_menu{
@@ -36,7 +34,7 @@ form{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #39C72C;
 }
 
 .top_menu li{
@@ -52,7 +50,8 @@ form{
 }
 
 .top_menu a:hover{
-  background-color: #111
+  background-color: #60D55B;
+  color: #000000;
 }
 
 #menu-item-54{
@@ -68,7 +67,7 @@ form{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #39C72C;
 }
 
 .bottom_menu li{
@@ -84,8 +83,15 @@ form{
 }
 
 .bottom_menu a:hover{
-  background-color: #111
+  background-color: #60D55B;
+  color: #000000;
 }
 
+.info{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
 
 
